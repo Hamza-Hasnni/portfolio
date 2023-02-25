@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.2d528158.css",
-    "main.js": "/portfolio/static/js/main.7d8ce559.js",
+    "main.js": "/portfolio/static/js/main.98c4488c.js",
     "static/media/about04.png": "/portfolio/static/media/about04.fa7b3a72ed32b0e25bfb.png",
     "static/media/about02.png": "/portfolio/static/media/about02.7a3df03410ee756268ec.png",
     "static/media/about01.png": "/portfolio/static/media/about01.080509de05322b7aafda.png",
@@ -10,6 +10,7 @@
     "static/media/about03.png": "/portfolio/static/media/about03.c26c2547bb1a423cf283.png",
     "static/media/profile.png": "/portfolio/static/media/profile.88efcd0a52a02619a973.png",
     "static/media/spotify.png": "/portfolio/static/media/spotify.2b5e9be1eb1ab501e7cd.png",
+    "static/media/calculator.png": "/portfolio/static/media/calculator.9ee940c248cdd9c5795b.png",
     "static/media/nb.png": "/portfolio/static/media/nb.98f3253e32cc67a4cb5e.png",
     "static/media/asus.png": "/portfolio/static/media/asus.514bc34955008a92e09f.png",
     "static/media/adidas.png": "/portfolio/static/media/adidas.83df8153294f9137d308.png",
@@ -29,10 +30,10 @@
     "index.html": "/portfolio/index.html",
     "static/media/circle.svg": "/portfolio/static/media/circle.134eeeb1e58895b892195fe8ed63bc9f.svg",
     "main.2d528158.css.map": "/portfolio/static/css/main.2d528158.css.map",
-    "main.7d8ce559.js.map": "/portfolio/static/js/main.7d8ce559.js.map"
+    "main.98c4488c.js.map": "/portfolio/static/js/main.98c4488c.js.map"
   },
   "entrypoints": [
     "static/css/main.2d528158.css",
-    "static/js/main.7d8ce559.js"
+    "static/js/main.98c4488c.js"
   ]
 }
