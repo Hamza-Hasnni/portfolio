@@ -34,9 +34,9 @@ const works  = [
     description: "my first project in front end development",
   },
   {
-    tags: ["React", "Figma"],
+    tags: ["React JS", "Figma"],
     imgUrl: images.gpt3,
-    name: "Project 2",
+    name: "GPT-3",
     projectLink: "https://hamza-hasnni.github.io/gpt-3-ux-ui/",
     codeLink: "https://github.com/Hamza-Hasnni/gpt-3-ux-ui",
     title: "GPT-3",
