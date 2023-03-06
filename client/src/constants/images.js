@@ -35,6 +35,7 @@ import nb from '../assets/nb.png';
 import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
 import calculator from '../assets/calculator.png'
+import gpt3 from '../assets/GPT3.png'
 
 // eslint-disable-next-line import/no-anonymous-default-export
 export default{
@@ -72,4 +73,5 @@ export default{
   skype,
   spotify,
   calculator,
+  gpt3,
 };
