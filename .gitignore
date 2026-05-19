@@ -1,0 +1,38 @@
+# dependencies
+node_modules/
+
+# build output (Bun.build, Vite, Astro, etc.)
+dist/
+build/
+.output/
+*.bun-build
+
+# environment variables (keep .env.example unignored)
+.env
+.env.local
+.env.*.local
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# editor & IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# logs & debugging
+logs/
+*.log
+npm-debug.log*
+bun-debug.log*
+
+# testing
+coverage/
+
+# temporary files
+.cache/
+tmp/
+temp/
